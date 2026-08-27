@@ -49,14 +49,14 @@
 ### Recent public activity
 
 <!--START_SECTION:activity-->
-- **2026-08-06 16:44 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-31 10:52 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-31 10:19 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-31 10:11 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-31 10:00 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-30 09:55 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-30 09:41 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
-- **2026-07-30 09:31 KST** 쨌 **1 commit** ??[daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-08-06 16:44 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-31 10:52 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-31 10:19 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-31 10:11 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-31 10:00 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-30 09:55 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-30 09:41 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
+- **2026-07-30 09:31 KST** · **1 commit** → [daragi/Enernet](https://github.com/daragi/Enernet)
 <!--END_SECTION:activity-->
 
 <p align="center"><sub>매일 09:20 KST 자동 업데이트 · 최근 공개 활동 최대 8건</sub></p>
