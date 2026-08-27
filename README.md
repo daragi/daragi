@@ -96,12 +96,17 @@
 - 반복 업무를 줄이는 **재현 가능한 데이터 파이프라인과 자동화**
 - 모델 성능뿐 아니라 비즈니스 활용 가능성을 함께 보는 **Applied Machine Learning**
 
-## GitHub snapshot
+## Recommended reading order
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daragi&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="Daragi GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daragi&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Daragi most used languages" />
-</p>
+처음 방문하셨다면 관심 영역에 따라 아래 프로젝트부터 살펴보세요.
+
+| 관심 영역 | 추천 프로젝트 | 확인할 수 있는 역량 |
+| :--- | :--- | :--- |
+| **Product Analytics** | [Startie](https://github.com/daragi/Startie) | 퍼널 · Aha Moment · 전환 개선안 |
+| **BI & Business Analysis** | [Blinkit BI](https://github.com/daragi/Blinkit_BI) | KPI · 수익/재고 구조 · 대시보드 |
+| **Operations & Automation** | [Enernet](https://github.com/daragi/Enernet) | 현업 문제 구조화 · 자동화 · 운영 도구 |
+| **Data Pipeline** | [MediPort Data](https://github.com/medicrew-team/mediport-data) | 수집 · 정제 · ETL · DB 설계 |
+| **Exploratory Analysis** | [Olist](https://github.com/daragi/Olist) | EDA · 지역/계절 분석 · 전략 제안 |
 
 ---
 
