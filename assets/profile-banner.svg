@@ -1,6 +1,6 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
       <stop offset="1" stop-color="#0D2437"/>
     </linearGradient>
@@ -20,28 +20,24 @@
     </pattern>
   </defs>
 
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#grid)"/>
   <circle cx="1130" cy="-5" r="205" fill="#0EA5E9" fill-opacity="0.06"/>
-  <circle cx="1010" cy="360" r="230" fill="#14B8A6" fill-opacity="0.05"/>
+  <circle cx="1010" cy="260" r="230" fill="#14B8A6" fill-opacity="0.05"/>
 
-  <rect x="64" y="55" width="224" height="34" rx="17" fill="#0F766E" fill-opacity="0.28" stroke="#2DD4BF" stroke-opacity="0.52"/>
-  <circle cx="85" cy="72" r="5" fill="#2DD4BF"/>
-  <text x="101" y="78" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.4">DATA ANALYST PORTFOLIO</text>
-
-  <text x="64" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="3">DARAGI</text>
-  <text x="68" y="206" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">Product Analytics · Business Intelligence · Automation</text>
-  <text x="68" y="250" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">From business questions to measurable actions.</text>
+  <text x="64" y="102" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="3">DARAGI</text>
+  <text x="68" y="145" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Product Analytics · Business Intelligence · Automation</text>
+  <text x="68" y="181" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17">From business questions to measurable actions.</text>
 
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="68" y="285" width="116" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
-    <text x="126" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">Python</text>
-    <rect x="196" y="285" width="92" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
-    <text x="242" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">SQL</text>
-    <rect x="300" y="285" width="88" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
-    <text x="344" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">BI</text>
-    <rect x="400" y="285" width="144" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
-    <text x="472" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">Product Data</text>
+    <rect x="68" y="203" width="105" height="34" rx="9" fill="#172A3D" stroke="#334155"/>
+    <text x="120" y="225" fill="#E2E8F0" font-size="14" text-anchor="middle">Python</text>
+    <rect x="185" y="203" width="82" height="34" rx="9" fill="#172A3D" stroke="#334155"/>
+    <text x="226" y="225" fill="#E2E8F0" font-size="14" text-anchor="middle">SQL</text>
+    <rect x="279" y="203" width="78" height="34" rx="9" fill="#172A3D" stroke="#334155"/>
+    <text x="318" y="225" fill="#E2E8F0" font-size="14" text-anchor="middle">BI</text>
+    <rect x="369" y="203" width="132" height="34" rx="9" fill="#172A3D" stroke="#334155"/>
+    <text x="435" y="225" fill="#E2E8F0" font-size="14" text-anchor="middle">Product Data</text>
   </g>
 
   <g opacity="0.68">
@@ -74,15 +70,4 @@
     <circle cx="1117" cy="70" r="6"/>
   </g>
 
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="685" y="282" width="134" height="44" rx="11" fill="#0B1B2B" stroke="#334155"/>
-    <text x="701" y="300" fill="#64748B" font-size="11" letter-spacing="1">QUESTION</text>
-    <text x="701" y="317" fill="#E2E8F0" font-size="13" font-weight="600">Define</text>
-    <rect x="835" y="282" width="134" height="44" rx="11" fill="#0B1B2B" stroke="#334155"/>
-    <text x="851" y="300" fill="#64748B" font-size="11" letter-spacing="1">ANALYSIS</text>
-    <text x="851" y="317" fill="#E2E8F0" font-size="13" font-weight="600">Measure</text>
-    <rect x="985" y="282" width="134" height="44" rx="11" fill="#0B1B2B" stroke="#334155"/>
-    <text x="1001" y="300" fill="#64748B" font-size="11" letter-spacing="1">OUTCOME</text>
-    <text x="1001" y="317" fill="#5EEAD4" font-size="13" font-weight="600">Act</text>
-  </g>
 </svg>
