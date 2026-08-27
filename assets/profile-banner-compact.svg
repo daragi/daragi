@@ -1,4 +1,6 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Daragi Data Analyst</title>
+  <desc id="banner-desc">Compact banner with an upward analytics chart</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Daragi Data Analyst banner" />
+  <img src="./assets/profile-banner-compact.svg" width="100%" alt="Daragi Data Analyst banner" />
 </p>
 
 <p align="center"><b>데이터를 이해하고, 의사결정에 필요한 다음 액션을 만듭니다.</b></p>
