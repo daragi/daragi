@@ -1,0 +1,88 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0D2437"/>
+    </linearGradient>
+    <linearGradient id="line" x1="705" y1="250" x2="1125" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#334155" stroke-opacity="0.24"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1130" cy="-5" r="205" fill="#0EA5E9" fill-opacity="0.06"/>
+  <circle cx="1010" cy="360" r="230" fill="#14B8A6" fill-opacity="0.05"/>
+
+  <rect x="64" y="55" width="224" height="34" rx="17" fill="#0F766E" fill-opacity="0.28" stroke="#2DD4BF" stroke-opacity="0.52"/>
+  <circle cx="85" cy="72" r="5" fill="#2DD4BF"/>
+  <text x="101" y="78" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.4">DATA ANALYST PORTFOLIO</text>
+
+  <text x="64" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="3">DARAGI</text>
+  <text x="68" y="206" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">Product Analytics · Business Intelligence · Automation</text>
+  <text x="68" y="250" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">From business questions to measurable actions.</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="68" y="285" width="116" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
+    <text x="126" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">Python</text>
+    <rect x="196" y="285" width="92" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
+    <text x="242" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">SQL</text>
+    <rect x="300" y="285" width="88" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
+    <text x="344" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">BI</text>
+    <rect x="400" y="285" width="144" height="38" rx="10" fill="#172A3D" stroke="#334155"/>
+    <text x="472" y="310" fill="#E2E8F0" font-size="16" text-anchor="middle">Product Data</text>
+  </g>
+
+  <g opacity="0.68">
+    <line x1="676" y1="88" x2="1135" y2="88" stroke="#475569" stroke-dasharray="4 8"/>
+    <line x1="676" y1="144" x2="1135" y2="144" stroke="#475569" stroke-dasharray="4 8"/>
+    <line x1="676" y1="200" x2="1135" y2="200" stroke="#475569" stroke-dasharray="4 8"/>
+    <line x1="676" y1="256" x2="1135" y2="256" stroke="#475569" stroke-dasharray="4 8"/>
+  </g>
+
+  <g fill="#164E63" fill-opacity="0.68">
+    <rect x="699" y="225" width="24" height="31" rx="4"/>
+    <rect x="757" y="205" width="24" height="51" rx="4"/>
+    <rect x="815" y="216" width="24" height="40" rx="4"/>
+    <rect x="873" y="175" width="24" height="81" rx="4"/>
+    <rect x="931" y="185" width="24" height="71" rx="4"/>
+    <rect x="989" y="136" width="24" height="120" rx="4"/>
+    <rect x="1047" y="109" width="24" height="147" rx="4"/>
+    <rect x="1105" y="85" width="24" height="171" rx="4"/>
+  </g>
+
+  <path d="M711 223L769 198L827 207L885 162L943 173L1001 122L1059 132L1117 70" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <g fill="#07111F" stroke="#5EEAD4" stroke-width="3">
+    <circle cx="711" cy="223" r="6"/>
+    <circle cx="769" cy="198" r="6"/>
+    <circle cx="827" cy="207" r="6"/>
+    <circle cx="885" cy="162" r="6"/>
+    <circle cx="943" cy="173" r="6"/>
+    <circle cx="1001" cy="122" r="6"/>
+    <circle cx="1059" cy="132" r="6"/>
+    <circle cx="1117" cy="70" r="6"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="685" y="282" width="134" height="44" rx="11" fill="#0B1B2B" stroke="#334155"/>
+    <text x="701" y="300" fill="#64748B" font-size="11" letter-spacing="1">QUESTION</text>
+    <text x="701" y="317" fill="#E2E8F0" font-size="13" font-weight="600">Define</text>
+    <rect x="835" y="282" width="134" height="44" rx="11" fill="#0B1B2B" stroke="#334155"/>
+    <text x="851" y="300" fill="#64748B" font-size="11" letter-spacing="1">ANALYSIS</text>
+    <text x="851" y="317" fill="#E2E8F0" font-size="13" font-weight="600">Measure</text>
+    <rect x="985" y="282" width="134" height="44" rx="11" fill="#0B1B2B" stroke="#334155"/>
+    <text x="1001" y="300" fill="#64748B" font-size="11" letter-spacing="1">OUTCOME</text>
+    <text x="1001" y="317" fill="#5EEAD4" font-size="13" font-weight="600">Act</text>
+  </g>
+</svg>
